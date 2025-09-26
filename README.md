@@ -31,7 +31,7 @@ Quem usa: Desenvolvedor/analista que executa o código
 HOW (Como é feito?)
 Como: Através de web scraping usando:
 
-requests para fazer HTTP request
+requests para fazer HTTP requests
 
 BeautifulSoup para parsing do HTML
 
