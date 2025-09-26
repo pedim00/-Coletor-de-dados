@@ -1,7 +1,7 @@
 # -Coletor-de-dados
 esse programa pega alguns comentários de um site feito para scrap, por isso a escolha.
 
-WHAT (O que está sendo feito?)
+HAT (O que está sendo feito?)
 O que: Extração de frases, autores e tags do site "Quotes to Scrape"
 
 O que produz: Um arquivo CSV chamado "quotes.csv" com os dados extraídos
